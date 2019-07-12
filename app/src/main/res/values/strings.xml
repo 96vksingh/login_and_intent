@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">login_and_intent</string>
+    <string name="log_in">LOG IN</string>
+    <string name="textview">TextView</string>
+    <string name="back">back</string>
+    <string name="camera">camera</string>
+</resources>
